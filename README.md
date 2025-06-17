@@ -2,7 +2,7 @@
 
 This repository tackles the NLP task of Question Answering (QA) using the BERT language model. In QA, the model receives a context and a question as input and extracts the answer from the given context.
 
-## Repository Contents
+## Repository Content
 
 1. **`QA_model_with_BERT.pdf`**  
    A detailed report describing the project, including the model architecture, training process, usage instructions, and additional insights.
